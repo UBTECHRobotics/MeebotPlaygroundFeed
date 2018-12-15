@@ -79,7 +79,7 @@
                 }, 
                 {
                     "name": "Version:", 
-                    "value": "1.0"
+                    "value": "1.0.2"
                 }, 
                 {
                     "type": "date", 
@@ -92,8 +92,8 @@
                 }
             ], 
             "title": "AstroBot Mars Mission", 
-            "contentVersion": "1.0.1", 
-            "lastUpdatedDate": "2018-11-06T12:00:00+00:00", 
+            "contentVersion": "1.0.2", 
+            "lastUpdatedDate": "2018-12-14T12:00:00+00:00", 
             "contentIdentifier": "com.ubtech.astrobotmars"
         }
     ], 
