@@ -73,7 +73,7 @@
             "publishedDate": "2018-11-06T12:00:00+00:00", 
             "url": "../../Content/AstrobotMars/Astrobot.playgroundbook.zip",
             "additionalInformation": [
-                {
+                {   
                     "name": "Publisher:", 
                     "value": "UBTECH Robotics Corp."
                 }, 
@@ -99,7 +99,7 @@
     ], 
     "publisherName": "UBTECH Robotics Corp.", 
     "title": "MeeBot Playgrounds", 
-    "formatVersion": "1.0", 
+    "formatVersion": "1.1", 
     "feedIdentifier": "com.ubtech", 
     "contactURL": "mailto:jimu.service@ubtrobot.com"
 }
