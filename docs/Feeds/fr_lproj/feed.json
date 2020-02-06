@@ -1,6 +1,38 @@
 {
     "documents": [
         {
+            "previewImageURLs": [],
+            "bannerImageURL": "../../Content/MeeBot2Dances/fr_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/MeeBot2Dances/fr_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "Code tes propres pas de danse pour MeeBot 2.0, ton Jimu\u00a0Robot personnel",
+            "description": "Utilise Swift et cr\u00e9e une chor\u00e9graphie pour MeeBot. Pendant cette le\u00e7on, tu apprendras \u00e9galement \u00e0 utiliser du code pour mettre au point tes propres pas de danse. Sers-t\u2019en pour faire briller Meebot 2.0 sur la piste de danse. Applique les connaissances que tu as acquises dans \u00ab Apprendre \u00e0 coder 1 \u00bb pour que tes pas de danse soient en rythme avec la musique. L\u2019ultime performance de Meebot 2.0 se doit d\u2019\u00eatre parfaite.",
+            "publishedDate": "2017-05-29T12:00:00+00:00",
+            "url": "../../Content/MeeBot2Dances/MeeBot2.0Dances.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "\u00c9diteur\u00a0:",
+                    "value": "UBTECH Robotics Corp."
+                },
+                {
+                    "name": "Version\u00a0:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Sortie\u00a0:",
+                    "value": "2020-01-16T12:00:00+00:00"
+                },
+                {
+                    "name": "Langues\u00a0:",
+                    "value": "Anglais, allemand, fran\u00e7ais, chinois simplifi\u00e9, japonais et espagnol d\u2019Am\u00e9rique latine."
+                }
+            ],
+            "title": "Danses de MeeBot 2.0",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "contentIdentifier": "com.ubtech.meebottwolearnstodance"
+        },
+        {
             "previewImageURLs": [], 
             "bannerImageURL": "../../Content/MeeBotDances/fr_lproj/DetailsBanner_2x.png", 
             "thumbnailURL": "../../Content/MeeBotDances/fr_lproj/StoreBanner_2x.png", 
