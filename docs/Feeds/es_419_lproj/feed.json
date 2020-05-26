@@ -2,6 +2,38 @@
     "documents": [
         {
             "previewImageURLs": [],
+            "bannerImageURL": "../../Content/MeeBot2CodeIsland/es_419_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/MeeBot2CodeIsland/es_419_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "Guía a MeeBot 2.0 a través de su aventura en Code Island",
+            "description": "Usa Swift para guiar a MeeBot 2.0 por Code Island. En esta lección te enseñaremos a aplicar lo aprendido en \u201cAprender a programar 1\u201c para manipular MeeBot 2.0 y usar los ojos LED y el sensor de color con el fin de navegar por Code Island.",
+            "publishedDate": "2020-01-16T12:00:00+00:00",
+            "url": "../../Content/MeeBot2CodeIsland/MeeBot2.0CodeIsland.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "UBTECH Robotics Corp."
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2020-05-31T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "Englisch, Deutsch, Spanisch, Französisch, Italienisch, Japanisch, Koreanisch, Niederländisch, Portugiesisch, Schwedisch, Thailändisch, Türkisch, traditionelles und vereinfachtes Chinesisch."
+                }
+            ],
+            "title": "Code Island",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "contentIdentifier": "com.ubtech.meebottwocodeisland"
+        },
+        {
+            "previewImageURLs": [],
             "bannerImageURL": "../../Content/MeeBot2Dances/es_419_lproj/DetailsBanner_2x.png",
             "thumbnailURL": "../../Content/MeeBot2Dances/es_419_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "Programa tus propios movimientos de baile para MeeBot 2.0",

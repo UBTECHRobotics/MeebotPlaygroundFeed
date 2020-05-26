@@ -2,6 +2,37 @@
     "documents": [
         {
             "previewImageURLs": [],
+            "bannerImageURL": "../../Content/MeeBot2CodeIsland/de_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/MeeBot2CodeIsland/de_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "Führe MeeBot 2.0 durch sein Code Island-Abenteuer!",
+            "description": "Verwende Swift, um MeeBot 2.0 durch die Code Island zu führen. Diese Lektion zeigt dir auch, wie du das, was du zuvor in \u201cLerne Code 1\u201c gelernt hast, nutzen kannst, um MeeBot 2.0 zu manipulieren und die LED-Augen und den Farbsensor zu verwenden, um durch Code Island zu navigieren!",
+            "publishedDate": "2020-01-16T12:00:00+00:00",
+            "url": "../../Content/MeeBot2CodeIsland/MeeBot2.0CodeIsland.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "UBTECH Robotics Corp."
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2020-05-31T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "Englisch, Deutsch, Spanisch, Französisch, Italienisch, Japanisch, Koreanisch, Niederländisch, Portugiesisch, Schwedisch, Thailändisch, Türkisch, traditionelles und vereinfachtes Chinesisch."
+                }
+            ],
+            "title": "Code Island",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "contentIdentifier": "com.ubtech.meebottwocodeisland"
+        },{
+            "previewImageURLs": [],
             "bannerImageURL": "../../Content/MeeBot2Dances/de_lproj/DetailsBanner_2x.png",
             "thumbnailURL": "../../Content/MeeBot2Dances/de_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "Schreibe deine eigenen Tanzmoves f\u00fcr MeeBot 2.0",

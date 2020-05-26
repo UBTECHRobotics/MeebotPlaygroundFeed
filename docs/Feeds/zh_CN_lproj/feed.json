@@ -2,6 +2,38 @@
     "documents": [
         {
             "previewImageURLs": [],
+            "bannerImageURL": "../../Content/MeeBot2CodeIsland/zh_CN_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/MeeBot2CodeIsland/zh_CN_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "\u5f15\u5bfc \u004d\u0065\u0065\u0042\u006f\u0074 \u0032\u002e\u0030 \u5728\u4ed6\u7684 \u0043\u006f\u0064\u0065 \u0049\u0073\u006c\u0061\u006e\u0064\uff08\u4ee3\u7801\u5c9b\uff09\u4e2d\u63a2\u7d22\uff01",
+            "description": "\u4f7f\u7528 \u0053\u0077\u0069\u0066\u0074 \u6765\u5f15\u5bfc \u004d\u0065\u0065\u0042\u006f\u0074 \u0032\u002e\u0030 \u63a2\u904d\u4ee3\u7801\u5c9b\u3002\u672c\u8282\u8bfe\u7a0b\u5c06\u5c55\u793a\u5982\u4f55\u5229\u7528\u4e4b\u524d\u5b66\u5230\u7684 \u201c\u004c\u0065\u0061\u0072\u006e \u0074\u006f \u0043\u006f\u0064\u0065 \u0031\u201d\uff08\u5b66\u4e60\u7f16\u7a0b \u0031\uff09\u8bfe\u7a0b\u4e2d\u7684\u77e5\u8bc6\u6765\u64cd\u7eb5 \u004d\u0065\u0065\u0042\u006f\u0074 \u0032\u002e\u0030 \u5e76\u4f7f\u7528\u5b83\u7684 \u004c\u0045\u0044 \u773c\u775b\u548c\u8272\u5f69\u4f20\u611f\u5668\u6765\u6e38\u89c8\u63a2\u7d22\u4ee3\u7801\u5c9b\uff01",
+            "publishedDate": "2020-01-16T12:00:00+00:00",
+            "url": "../../Content/MeeBot2CodeIsland/MeeBot2.0CodeIsland.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "UBTECH Robotics Corp."
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2020-05-31T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "\u82f1\u8bed\u3001\u5fb7\u8bed\u3001\u897f\u73ed\u7259\u8bed\u3001\u6cd5\u8bed\u3001\u610f\u5927\u5229\u8bed\u3001\u65e5\u8bed\u3001\u97e9\u8bed\u3001\u8377\u5170\u8bed\u3001\u8461\u8404\u7259\u8bed\u3001\u745e\u5178\u8bed\u3001\u6cf0\u8bed\u3001\u571f\u8033\u5176\u8bed\u3001\u7e41\u4e2d\u548c\u7b80\u4e2d"
+                }
+            ],
+            "title": "\u7684\u4ee3\u7801\u5c9b",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "contentIdentifier": "com.ubtech.meebottwocodeisland"
+        },
+        {
+            "previewImageURLs": [],
             "bannerImageURL": "../../Content/MeeBot2Dances/zh_CN_lproj/DetailsBanner_2x.png",
             "thumbnailURL": "../../Content/MeeBot2Dances/zh_CN_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "\u4e3a\u4f60\u7684\u4e2a\u4eba Jimu Robot MeeBot 2.0 \u7f16\u5199\u81ea\u5df1\u7684\u821e\u6b65\u4ee3\u7801",

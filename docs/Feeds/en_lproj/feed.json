@@ -2,6 +2,38 @@
     "documents": [
         {
             "previewImageURLs": [],
+            "bannerImageURL": "../../Content/MeeBot2CodeIsland/en_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/MeeBot2CodeIsland/en_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "Guide MeeBot 2.0 through his Code Island adventure!",
+            "description": "Use Swift to guide MeeBot 2.0 through Code Island. This lesson will also show you how to utilize what you previously learned in \u201cLearn to Code 1\u201c to manipulate MeeBot 2.0 and use the LED eyes and color sensor to navigate through Code Island!",
+            "publishedDate": "2020-01-16T12:00:00+00:00",
+            "url": "../../Content/MeeBot2CodeIsland/MeeBot2.0CodeIsland.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "UBTECH Robotics Corp."
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2020-05-31T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "English, German, Spanish, French, Italian, Japanese, Korean, Dutch, Portuguese, Swedish, Thai, Turkish, Chinese Traditional and Chinese Simplified."
+                }
+            ],
+            "title": "Code Island",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "contentIdentifier": "com.ubtech.meebottwocodeisland"
+        },
+        {
+            "previewImageURLs": [],
             "bannerImageURL": "../../Content/MeeBot2Dances/en_lproj/DetailsBanner_2x.png",
             "thumbnailURL": "../../Content/MeeBot2Dances/en_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "Code your own dance moves for MeeBot 2.0, your personal Jimu Robot",

@@ -2,6 +2,38 @@
     "documents": [
         {
             "previewImageURLs": [],
+            "bannerImageURL": "../../Content/MeeBot2CodeIsland/tr_lproj/DetailsBanner_2x.png",
+            "thumbnailURL": "../../Content/MeeBot2CodeIsland/tr_lproj/StoreBanner_2x.png",
+            "overviewSubtitle": "MeeBot 2.0'a Code Island macerasında rehberlik edin!",
+            "description": "MeeBot 2.0'a Code Island macerasında rehberlik etmek için Swift'i kullanın.  Bu ders size aynı zamanda  MeeBot 2.0'ı manipüle etmek ve Code Island'da gezinmek için LED gözlerini ve renk sensörünü kullanmak amacıyla \u201cKodlamayı Öğrenin 1\u201cde daha önce öğrendiklerinizi nasıl kullanacağınızı da gösterecektir.",
+            "publishedDate": "2020-01-16T12:00:00+00:00",
+            "url": "../../Content/MeeBot2CodeIsland/MeeBot2.0CodeIsland.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "UBTECH Robotics Corp."
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2020-05-31T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "İngilizce, Almanca, İspanyolca, Fransızca, İtalyanca, Japonca, Korece, Hollandaca, Portekizce, İsveçce, Taylandca, Türkçe, Geleneksel Çince ve Basitleştirilmiş Çince."
+                }
+            ],
+            "title": "Code Island",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "contentIdentifier": "com.ubtech.meebottwocodeisland"
+        },
+        {
+            "previewImageURLs": [],
             "bannerImageURL": "../../Content/MeeBot2Dances/en_lproj/DetailsBanner_2x.png",
             "thumbnailURL": "../../Content/MeeBot2Dances/en_lproj/StoreBanner_2x.png",
             "overviewSubtitle": "Code your own dance moves for MeeBot 2.0, your personal Jimu Robot",
