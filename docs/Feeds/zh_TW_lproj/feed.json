@@ -4,8 +4,8 @@
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/MeeBot2Dances/en_lproj/DetailsBanner_2x.png",
             "thumbnailURL": "../../Content/MeeBot2Dances/en_lproj/StoreBanner_2x.png",
-            "overviewSubtitle": "Code your own dance moves for MeeBot 2.0, your personal Jimu Robot",
-            "description": "Use Swift to compose a choreographed dance for MeeBot. This lesson will also show you how to create your own custom dance moves through code to take Meebot\u2019s dance to the next level. Utilize what you previously learned in \u201cLearn to Code 1\u201d to time your dance moves with the tempo of the music for Meebot\u2019s final performance.",
+            "overviewSubtitle": "引導 MeeBot 2.0 通過它的 Code Island 探險之旅吧!",
+            "description": "用 Swift 來引導 MeeBot 2.0 通過 Code Island。本課程還將為您演示如何利用您先前在「學習編碼 1」中所學到的知識來操作 MeeBot 2.0，並使用 LED 眼睛和顏色感應器導航穿越 Code Island！",
             "publishedDate": "2020-01-16T12:00:00+00:00",
             "url": "../../Content/MeeBot2Dances/MeeBot2.0Dances.playgroundbook.zip",
             "additionalInformation": [
@@ -15,21 +15,21 @@
                 },
                 {
                     "name": "Version:",
-                    "value": "1.0"
+                    "value": "2.0"
                 },
                 {
                     "type": "date",
                     "name": "Released:",
-                    "value": "2020-01-16T12:00:00+00:00"
+                    "value": "2020-12-14T12:00:00+00:00"
                 },
                 {
                     "name": "Languages:",
-                    "value": "English, German, French, Simplified Chinese, Japanese, and Latin American Spanish."
+                    "value": "英文、德文、西班牙文、法文、意大利文、日文、韓文、荷蘭文、葡萄牙文、瑞典文、泰文、土耳其文、繁體中文和簡體中文"
                 }
             ],
-            "title": "MeeBot 2.0 Dances",
-            "contentVersion": "1.0",
-            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "title": "MeeBot 2.0 Code Island",
+            "contentVersion": "2.0",
+            "lastUpdatedDate": "2020-12-14T12:00:00+00:00",
             "contentIdentifier": "com.ubtech.meebottwolearnstodance"
         },
         {

@@ -4,8 +4,8 @@
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/MeeBot2Dances/en_lproj/DetailsBanner_2x.png",
             "thumbnailURL": "../../Content/MeeBot2Dances/en_lproj/StoreBanner_2x.png",
-            "overviewSubtitle": "Code your own dance moves for MeeBot 2.0, your personal Jimu Robot",
-            "description": "Use Swift to compose a choreographed dance for MeeBot. This lesson will also show you how to create your own custom dance moves through code to take Meebot\u2019s dance to the next level. Utilize what you previously learned in \u201cLearn to Code 1\u201d to time your dance moves with the tempo of the music for Meebot\u2019s final performance.",
+            "overviewSubtitle": "Guida MeeBot 2.0 nella sua avventura a Code Island!",
+            "description": "Usa Swift per guidare MeeBot 2.0 attraverso Code Island. Questa lezione ti mostrerà anche come utilizzare ciò che hai appreso in precedenza in 'Impara a codificare 1' per maneggiare MeeBot 2.0 e utilizzare gli occhi LED e il sensore di colore per viaggiare in Code Island!",
             "publishedDate": "2020-01-16T12:00:00+00:00",
             "url": "../../Content/MeeBot2Dances/MeeBot2.0Dances.playgroundbook.zip",
             "additionalInformation": [
@@ -15,21 +15,21 @@
                 },
                 {
                     "name": "Version:",
-                    "value": "1.0"
+                    "value": "2.0"
                 },
                 {
                     "type": "date",
                     "name": "Released:",
-                    "value": "2020-01-16T12:00:00+00:00"
+                    "value": "2020-12-14T12:00:00+00:00"
                 },
                 {
                     "name": "Languages:",
-                    "value": "English, German, French, Simplified Chinese, Japanese, and Latin American Spanish."
+                    "value": "Inglese, tedesco, spagnolo, francese, italiano, giapponese, coreano, olandese, portoghese, svedese, tailandese, turco, cinese tradizionale e cinese semplificato."
                 }
             ],
-            "title": "MeeBot 2.0 Dances",
-            "contentVersion": "1.0",
-            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "title": "MeeBot 2.0 Code Island",
+            "contentVersion": "2.0",
+            "lastUpdatedDate": "2020-12-14T12:00:00+00:00",
             "contentIdentifier": "com.ubtech.meebottwolearnstodance"
         },
         {

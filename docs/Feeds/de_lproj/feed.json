@@ -4,8 +4,8 @@
             "previewImageURLs": [],
             "bannerImageURL": "../../Content/MeeBot2Dances/de_lproj/DetailsBanner_2x.png",
             "thumbnailURL": "../../Content/MeeBot2Dances/de_lproj/StoreBanner_2x.png",
-            "overviewSubtitle": "Schreibe deine eigenen Tanzmoves f\u00fcr MeeBot 2.0",
-            "description": "Komponiere mit Swift eine Tanzchoreografie f\u00fcr MeeBot 2.0. In dieser \u00dcbung findest du heraus, wie du mit Code deine eigenen Tanzmoves kreierst, um den Tanz von Meebot noch besser zu machen. Nutze, was du in \u201eProgrammieren lernen 1\u201c gelernt hast, um f\u00fcr die gro\u00dfe Meebot-Performance deine Tanzmoves an das Tempo der Musik anzupassen.",
+            "overviewSubtitle": "Führe MeeBot 2.0 durch sein Code Island-Abenteuer!",
+            "description": "Verwende Swift, um MeeBot 2.0 durch die Code Island zu führen. Diese Lektion zeigt dir auch, wie du das, was du zuvor in 'Lerne Code 1' gelernt hast, nutzen kannst, um MeeBot 2.0 zu manipulieren und die LED-Augen und den Farbsensor zu verwenden, um durch Code Island zu navigieren!",
             "publishedDate": "2020-01-16T12:00:00+00:00",
             "url": "../../Content/MeeBot2Dances/MeeBot2.0Dances.playgroundbook.zip",
             "additionalInformation": [
@@ -15,21 +15,21 @@
                 },
                 {
                     "name": "Version:",
-                    "value": "1.0"
+                    "value": "2.0"
                 },
                 {
                     "type": "date",
                     "name": "Ver\u00f6ffentlicht:",
-                    "value": "2020-01-16T12:00:00+00:00"
+                    "value": "2020-12-14T12:00:00+00:00"
                 },
                 {
                     "name": "Sprachen:",
-                    "value": "Deutsch, Englisch, Franz\u00f6sisch, Chinesisch (Vereinfacht), Japanisch und Spanisch (Lateinamerika)."
+                    "value": "Englisch, Deutsch, Spanisch, Französisch, Italienisch, Japanisch, Koreanisch, Niederländisch, Portugiesisch, Schwedisch, Thailändisch, Türkisch, traditionelles und vereinfachtes Chinesisch."
                 }
             ],
-            "title": "MeeBot 2.0 T\u00e4nze",
-            "contentVersion": "1.0",
-            "lastUpdatedDate": "2020-01-16T12:00:00+00:00",
+            "title": "MeeBot 2.0 Code Island",
+            "contentVersion": "2.0",
+            "lastUpdatedDate": "2020-12-14T12:00:00+00:00",
             "contentIdentifier": "com.ubtech.meebottwolearnstodance"
         },
         {
